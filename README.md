@@ -3,13 +3,15 @@
 
 # Overview:
 The Obstacle Dodge Game is a simple yet engaging arcade-style game built using Python and the Pygame library. Players control a car that must maneuver left and right to avoid falling obstacles from the top of the screen. The objective is to dodge these obstacles for as long as possible, while accumulating points for each successfully avoided obstacle.
-
-# Gameplay Mechanics:
-
-# Controls: Players use the left and right arrow keys to move the car horizontally across the bottom of the screen.
-# Obstacles: Obstacles appear at random horizontal positions at the top of the screen and descend towards the player's car. If the car collides with an obstacle, the game ends.
-# Scoring System: Players earn points each time an obstacle is successfully dodged. The score is displayed at the top left corner of the screen.
-# Game Over: When a collision occurs, a "Game Over" message is displayed along with the final score for a brief period before the game closes.
+# GamePlay Mechanics :
+# Controls: 
+Players use the left and right arrow keys to move the car horizontally across the bottom of the screen.
+# Obstacles: 
+Obstacles appear at random horizontal positions at the top of the screen and descend towards the player's car. If the car collides with an obstacle, the game ends.
+# Scoring System: 
+Players earn points each time an obstacle is successfully dodged. The score is displayed at the top left corner of the screen.
+# Game Over: 
+When a collision occurs, a "Game Over" message is displayed along with the final score for a brief period before the game closes.
 # Visuals:
 The game features a simple graphical interface with a white background, a blue car, and red obstacles. The score is displayed in blue text.
 
